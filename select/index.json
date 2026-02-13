@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Island",
+  "base_artist": "IZ*ONE",
+  "createdAt": "2026-02-13T20:04:51.949282Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Island",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/01_Island_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Island Song",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/02_Island_Song_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Island Song",
+      "artist": "Chris Garneau",
+      "has_synced": true,
+      "path": "select/03_Island_Song_Chris_Garneau.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Chesterfield Island",
+      "artist": "The 2 Live Crew",
+      "has_synced": true,
+      "path": "select/04_Chesterfield_Island_The_2_Live_Crew.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Chesterfield Island",
+      "artist": "The 2 Live Crew",
+      "has_synced": false,
+      "path": "select/05_Chesterfield_Island_The_2_Live_Crew.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Island Of Lost Souls",
+      "artist": "Blondie",
+      "has_synced": true,
+      "path": "select/06_Island_Of_Lost_Souls_Blondie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Desert Island Disk",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/07_Desert_Island_Disk_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Coney Island Baby",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/08_Coney_Island_Baby_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Coney Island Baby (Alternate Version)",
+      "artist": "Lou Reed",
+      "has_synced": false,
+      "path": "select/09_Coney_Island_Baby_(Alternate_Version)_Lou_Reed.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rock Island Line",
+      "artist": "Lead Belly",
+      "has_synced": false,
+      "path": "select/10_Rock_Island_Line_Lead_Belly.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Coney Island Cyclone",
+      "artist": "Mercury Rev",
+      "has_synced": false,
+      "path": "select/11_Coney_Island_Cyclone_Mercury_Rev.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Desert Island",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/12_Desert_Island_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Moog Island",
+      "artist": "Morcheeba",
+      "has_synced": false,
+      "path": "select/13_Moog_Island_Morcheeba.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Moog Island",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/14_Moog_Island_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Island Life",
+      "artist": "of Montreal",
+      "has_synced": true,
+      "path": "select/15_Island_Life_of_Montreal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Island",
+      "artist": "IZ*ONE",
+      "has_synced": false,
+      "path": "select/pl_01_Island_IZ_ONE.txt"
+    }
+  ]
+}
